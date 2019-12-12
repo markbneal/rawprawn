@@ -12,3 +12,5 @@ has_devel()
 file.exists("~/.ssh/id_rsa.pub") #not here
 
 file.exists("c:/users/nealm/.ssh/id_rsa.pub") #is here
+
+#cahnge
