@@ -1,0 +1,13 @@
+Package: rawprawn
+Type: Package
+Title: A Test Package of Utilities
+Version: 0.1.0
+Author: Mark Neal
+Maintainer: Mark Neal <markbneal@gmail.com>
+Description: This Test Package of Utilities
+    Includes some easy to use functions for quantiles.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+URL: http://github.com/markbneal/rawprawn
+BugReports: http://github.com/markbneal/rawprawn/issues
